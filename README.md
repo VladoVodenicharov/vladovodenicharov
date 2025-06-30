@@ -1,19 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Vlado 👋
+[placeholder for an image]
 
-<!--
-**VladoVodenicharov/vladovodenicharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vlado! I am a Data Science Bachelor's in the University of Economics Varna, where I gained knowledge in Data Analytics and Machine Learning. My expertise is in:
 
-Here are some ideas to get you started:
+- Querying data using SQL
+- Power BI reports, data models and visualisations
+- Supervised and Unsupervised Machine Learning algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Welcome to my portfolio!
 
+### Tools
+Languages and Programming: Python, R, SQL  
+Reporting: Excel, Power BI  
+Others: Databricks  
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+### Check out my resume here!
+
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
