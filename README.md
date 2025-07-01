@@ -1,6 +1,6 @@
 ## Hi there, I'm Vlado 👋  
 
-![placeholder for an image](#)
+![placeholder for an image](https://github.com/VladoVodenicharov/vladovodenicharov/blob/main/Vlado%20Vodenicharov%20data%20science%20banner.jpg?raw=true)
 
 I'm Vlado, a Data Science student at the University of Economics – Varna. I specialize in **data analytics**, **business intelligence**, and **machine learning**. I combine analytical skills with a passion for solving real-world problems.
 
